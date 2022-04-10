@@ -1,0 +1,2 @@
+gender_submission.csv (included with data) 0.76555
+logistic_classification_prediction.csv (uses hyperparameter tuning, no Age yet!) 0.77511
